@@ -1,7 +1,8 @@
 name: flutter_clean_code
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+homepage: https://github.com/adinath-nikam/flutter_clean_code
+repository: https://github.com/adinath-nikam/flutter_clean_code
 
 environment:
   sdk: ^3.4.4
